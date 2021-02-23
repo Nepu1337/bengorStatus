@@ -1,2 +1,2 @@
 # bengorStatus
-String Status = A0;
+String Status = O1;
